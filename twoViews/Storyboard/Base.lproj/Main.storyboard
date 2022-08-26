@@ -29,7 +29,6 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <constraints>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="fdH-el-6BK" secondAttribute="bottom" constant="35" id="ELi-M2-e11"/>
-                            <constraint firstItem="fdH-el-6BK" firstAttribute="width" secondItem="ug6-vc-0K6" secondAttribute="width" id="PQi-xx-b7x"/>
                             <constraint firstItem="fdH-el-6BK" firstAttribute="height" secondItem="ug6-vc-0K6" secondAttribute="height" id="c4q-HB-OAP"/>
                             <constraint firstItem="ug6-vc-0K6" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="20" id="dwN-fe-qNt"/>
                             <constraint firstItem="fdH-el-6BK" firstAttribute="top" secondItem="ug6-vc-0K6" secondAttribute="bottom" constant="62" id="naL-Ye-edK"/>
